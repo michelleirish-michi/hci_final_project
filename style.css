@@ -1,0 +1,15 @@
+body {
+    background-color: lavender;
+}
+
+h1 {
+    color: rgb(46, 66, 214);
+}
+
+nav a {
+    text-decoration: rgb(47, 123, 255);
+    color: rgb(0, 128, 128);
+    font-size: 30px;  
+
+}
+
